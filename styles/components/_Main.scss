@@ -1,0 +1,30 @@
+@import '../utils/variables.scss';
+
+main {
+    background-repeat: no-repeat;
+    background-image: url(https://i.etsystatic.com/24213702/r/il/35b53b/3497412389/il_1588xN.3497412389_l0dq.jpg);
+    background-size: cover;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    
+}
+.mapDiv{
+    display: flex;
+    margin: 10px;
+    border-radius: 8px;
+}
+.mensaje{
+    background-color: aliceblue;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 8px;
+}
+.input{
+    padding: 8px;
+    border-radius: 8px;
+    padding: 8px;
+    margin: 10px;
+}
+
